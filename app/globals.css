@@ -87,3 +87,103 @@ body {
   transform: scale(1.1);
   z-index: 1000 !important;
 }
+
+/* Marker Cluster Styling */
+.marker-cluster-small {
+  background-color: rgba(110, 204, 57, 0.6);
+}
+
+.marker-cluster-small div {
+  background-color: rgba(110, 204, 57, 0.8);
+}
+
+.marker-cluster-medium {
+  background-color: rgba(240, 194, 12, 0.6);
+}
+
+.marker-cluster-medium div {
+  background-color: rgba(240, 194, 12, 0.8);
+}
+
+.marker-cluster-large {
+  background-color: rgba(241, 128, 23, 0.6);
+}
+
+.marker-cluster-large div {
+  background-color: rgba(241, 128, 23, 0.8);
+}
+
+.marker-cluster {
+  background-clip: padding-box;
+  border-radius: 20px;
+}
+
+.marker-cluster div {
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  margin-top: 5px;
+  text-align: center;
+  border-radius: 15px;
+  font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.marker-cluster span {
+  line-height: 30px;
+  color: #fff;
+}
+
+/* Hover effect on clusters */
+.marker-cluster:hover {
+  cursor: pointer;
+  opacity: 0.9;
+  transform: scale(1.05);
+  transition: all 0.2s ease;
+}
+
+/* Dark mode cluster adjustments */
+@media (prefers-color-scheme: dark) {
+  .marker-cluster-small {
+    background-color: rgba(110, 204, 57, 0.7);
+  }
+
+  .marker-cluster-small div {
+    background-color: rgba(110, 204, 57, 0.9);
+  }
+
+  .marker-cluster-medium {
+    background-color: rgba(240, 194, 12, 0.7);
+  }
+
+  .marker-cluster-medium div {
+    background-color: rgba(240, 194, 12, 0.9);
+  }
+
+  .marker-cluster-large {
+    background-color: rgba(241, 128, 23, 0.7);
+  }
+
+  .marker-cluster-large div {
+    background-color: rgba(241, 128, 23, 0.9);
+  }
+}
+
+/* Spiderfied markers animation */
+.leaflet-marker-icon.leaflet-marker-draggable {
+  transition: all 0.3s ease;
+}
+
+/* Polylines for spiderfied markers */
+.leaflet-cluster-spider-leg {
+  stroke: #222;
+  stroke-width: 1.5;
+  stroke-opacity: 0.5;
+}
+
+@media (prefers-color-scheme: dark) {
+  .leaflet-cluster-spider-leg {
+    stroke: #ddd;
+    stroke-opacity: 0.4;
+  }
+}

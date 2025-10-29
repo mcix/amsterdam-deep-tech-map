@@ -10,6 +10,7 @@ interface CompanyMarker {
   lat: number;
   lon: number;
   image?: string;
+  largeImage?: string;
   tagline?: string;
   about?: string;
   employees?: string;
@@ -60,7 +61,7 @@ export default function MapClient({ companies }: MapClientProps) {
         iconSize: [32, 32],
         iconAnchor: [16, 16],
         popupAnchor: [0, -16],
-        className: 'custom-marker-icon',
+        className: 'custom-marker-icon dark:bg-gray-800 dark:text-white',
       });
     }
     
@@ -101,37 +102,41 @@ export default function MapClient({ companies }: MapClientProps) {
             icon={createCustomIcon(company.image)}
           >
             <Popup maxWidth={400} className="custom-popup w-[400px]">
-              <div className="p-3">
-                {company.image && (
+              <div className="p-3 bg-white dark:bg-gray-800">
+                {company.largeImage && (
                   <img
-                    src={company.image}
+                    src={company.largeImage}
                     alt={company.name}
-                    className="w-24 h-24 object-contain mb-3 mx-auto"
+                    className="w-full max-w-[200px] h-auto object-contain mb-3 mx-auto"
                   />
                 )}
-                <h3 className="font-bold text-lg mb-2">{company.name}</h3>
+                <h3 className="font-bold text-lg mb-2 text-gray-900 dark:text-white">{company.name}</h3>
                 
                 {company.tagline && (
-                  <p className="text-sm text-gray-600 mb-2 italic">{company.tagline}</p>
+                  <p className="text-sm text-gray-600 dark:text-gray-400 mb-2 italic">{company.tagline}</p>
                 )}
                 
                 {company.about && (
-                  <p className="text-xs text-gray-700 mb-3 line-clamp-3">{company.about}</p>
+                  <p className="text-xs text-gray-700 dark:text-gray-300 mb-3 line-clamp-3">{company.about}</p>
                 )}
                 
-                <div className="text-xs space-y-1 border-t pt-2">
+                <div className="text-xs space-y-1 border-t border-gray-200 dark:border-gray-600 pt-2">
                   {company.city && (
-                    <p><strong>Location:</strong> {company.city}, {company.country}</p>
+                    <p className="text-gray-700 dark:text-gray-300">
+                      <strong className="text-gray-900 dark:text-white">Location:</strong> {company.city}, {company.country}
+                    </p>
                   )}
                   {company.employees && (
-                    <p><strong>Employees:</strong> {company.employees}</p>
+                    <p className="text-gray-700 dark:text-gray-300">
+                      <strong className="text-gray-900 dark:text-white">Employees:</strong> {company.employees}
+                    </p>
                   )}
                   {company.websiteUrl && (
                     <a
                       href={company.websiteUrl}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="text-blue-600 hover:underline block mt-2"
+                      className="text-blue-600 dark:text-blue-400 hover:underline block mt-2"
                     >
                       Visit Website →
                     </a>

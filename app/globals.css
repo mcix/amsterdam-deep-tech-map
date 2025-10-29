@@ -38,10 +38,26 @@ body {
   width: 100%;
 }
 
-/* Custom popup styling */
+/* Custom popup styling - override Leaflet defaults */
 .leaflet-popup-content-wrapper {
   border-radius: 8px;
   padding: 0;
+  background: white !important;
+  color: inherit;
+}
+
+.leaflet-popup-tip {
+  background: white !important;
+}
+
+@media (prefers-color-scheme: dark) {
+  .leaflet-popup-content-wrapper {
+    background: #1f2937 !important;
+  }
+  
+  .leaflet-popup-tip {
+    background: #1f2937 !important;
+  }
 }
 
 .leaflet-popup-content {
@@ -60,9 +76,9 @@ body {
 /* Custom marker icon styling */
 .custom-marker-icon {
   border-radius: 50%;
-  border: 2px solid white;
+  border: 2px solid black;
   box-shadow: 0 2px 4px rgba(0,0,0,0.3);
-  background: white;
+  background: black;
   cursor: pointer;
   transition: transform 0.2s ease;
 }

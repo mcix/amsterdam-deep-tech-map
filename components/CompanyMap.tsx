@@ -18,6 +18,7 @@ interface Company {
   hq_locations?: HQLocation[];
   images?: {
     '32x32'?: string;
+    '74x74'?: string;
     '100x100'?: string;
   };
   tagline?: string;
@@ -51,6 +52,7 @@ export default function CompanyMap() {
         lat: hq.lat,
         lon: hq.lon,
         image: company.images?.['32x32'], // Use smallest image for markers
+        largeImage: company.images?.['100x100'], // Use larger image for popup
         tagline: company.tagline,
         about: company.about,
         employees: company.employees,

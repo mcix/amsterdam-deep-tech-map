@@ -145,20 +145,29 @@ function MarkerClusterManager({
 
       // Create popup content
       const popupContent = document.createElement('div');
-      popupContent.className = 'p-3 bg-white dark:bg-gray-800';
+      popupContent.className = 'p-4 bg-white dark:bg-gray-800';
       popupContent.innerHTML = `
-        ${company.largeImage ? `<img src="${company.largeImage}" alt="${company.name}" class="w-full max-w-[200px] h-auto object-contain mb-3 mx-auto" />` : ''}
-        <h3 class="font-bold text-lg mb-2 text-gray-900 dark:text-white">${company.name}</h3>
-        ${company.tagline ? `<p class="text-sm text-gray-600 dark:text-gray-400 mb-2 italic">${company.tagline}</p>` : ''}
-        ${company.about ? `<p class="text-xs text-gray-700 dark:text-gray-300 mb-3 line-clamp-3">${company.about}</p>` : ''}
-        <div class="text-xs space-y-1 border-t border-gray-200 dark:border-gray-600 pt-2">
+        ${company.largeImage ? `<img src="${company.largeImage}" alt="${company.name}" class="w-full max-w-[150px] h-auto object-contain mb-3 mx-auto" />` : ''}
+        <h3 class="font-bold text-xl mb-2 text-gray-900 dark:text-white">${company.name}</h3>
+        ${company.tagline ? `<p class="text-sm text-gray-600 dark:text-gray-400 mb-3 italic">${company.tagline}</p>` : ''}
+        ${company.about ? `<div class="text-sm text-gray-700 dark:text-gray-300 mb-3 max-h-32 overflow-y-auto pr-2 popup-scrollable">${company.about}</div>` : ''}
+        <div class="text-sm space-y-1 border-t border-gray-200 dark:border-gray-600 pt-2">
           ${company.city ? `<p class="text-gray-700 dark:text-gray-300"><strong class="text-gray-900 dark:text-white">Location:</strong> ${company.city}, ${company.country}</p>` : ''}
           ${company.employees ? `<p class="text-gray-700 dark:text-gray-300"><strong class="text-gray-900 dark:text-white">Employees:</strong> ${company.employees}</p>` : ''}
           ${company.websiteUrl ? `<a href="${company.websiteUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline block mt-2">Visit Website →</a>` : ''}
         </div>
       `;
 
-      marker.bindPopup(popupContent, { maxWidth: 400 });
+      marker.bindPopup(popupContent, {
+        maxWidth: 500,
+        minWidth: 300,
+        maxHeight: 400,
+        autoPan: true,
+        keepInView: true,
+        closeOnClick: false,
+        autoClose: false,
+        closeButton: true
+      });
       clusterGroup.addLayer(marker);
       markersRef.current.push(marker);
     });

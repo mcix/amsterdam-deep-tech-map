@@ -1,0 +1,2675 @@
+[
+  {
+    "name": "Trusk Technology",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/95/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNy83MTU2Y2ZkZmExZTZmNTYzNzk0M2RiNzgxM2RjYmUxNg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/d8/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNy83MTU2Y2ZkZmExZTZmNTYzNzk0M2RiNzgxM2RjYmUxNg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/59/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA3LzcxNTZjZmRmYTFlNmY1NjM3OTQzZGI3ODEzZGNiZTE2.png"
+    },
+    "tagline": "Scalable air defence systems and autonomous UAS",
+    "url": "https://app.dealroom.cotrusk_technology",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "ChemReclaim",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/fd/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOC8wNy84MTE0ZmUyOWM5ODJlNmVhMjAzNzYwYTlmOTNmZTU3YQ==.jpg",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/bb/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOC8wNy84MTE0ZmUyOWM5ODJlNmVhMjAzNzYwYTlmOTNmZTU3YQ==.jpg",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/59/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA4LzA3LzgxMTRmZTI5Yzk4MmU2ZWEyMDM3NjBhOWY5M2ZlNTdh.jpg"
+    },
+    "tagline": "Nano powders and coatings from critical metals. Built for precision and superior performance",
+    "url": "https://app.dealroom.cochemreclaim",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Whisper",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/a1/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wNy8xNy80NDBjYjRhYjNhOTg1MDIxOTQwYmNhYWMzYmIyMzM3ZA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/c1/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wNy8xNy80NDBjYjRhYjNhOTg1MDIxOTQwYmNhYWMzYmIyMzM3ZA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/0e/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA3LzE3LzQ0MGNiNGFiM2E5ODUwMjE5NDBiY2FhYzNiYjIzMzdk.png"
+    },
+    "tagline": "Predictive cybersecurity platform mapping real-time internet infrastructure",
+    "url": "https://app.dealroom.cowhisper_",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "OpticsFoundry",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/7f/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMS81MmRlOWMxZmMxZTViZTlhOGI3NzkwNTQ3YWY0MDk4Yg==.jpeg",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/0e/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMS81MmRlOWMxZmMxZTViZTlhOGI3NzkwNTQ3YWY0MDk4Yg==.jpeg",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/07/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAxLzUyZGU5YzFmYzFlNWJlOWE4Yjc3OTA1NDdhZjQwOThi.jpeg"
+    },
+    "tagline": "Robotically manufactured, glued optical circuit boards and a one-stop-shop service for optical circuit production",
+    "url": "https://app.dealroom.coopticsfoundry",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Brighter Signals BV",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/6c/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wNS8xOS83N2E4NmY4YTE1M2EwOTY5MmJiODk1NTg4YjRmNGVmNg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/11/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wNS8xOS83N2E4NmY4YTE1M2EwOTY5MmJiODk1NTg4YjRmNGVmNg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/ac/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA1LzE5Lzc3YTg2ZjhhMTUzYTA5NjkyYmI4OTU1ODhiNGY0ZWY2.png"
+    },
+    "tagline": "Transforming fabrics into sensitive sensors for automotive and healthcare robotics",
+    "url": "https://app.dealroom.cobrighter_signals_bv",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Tzu Cancer Therapeutics",
+    "address": "N/A",
+    "city": "N/A",
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/48/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wNS8yMC8yZDIzMGZjMTYwYWVmOTgzZDI1OGIwMDQ2YzdiNDFiMw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/1f/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wNS8yMC8yZDIzMGZjMTYwYWVmOTgzZDI1OGIwMDQ2YzdiNDFiMw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/77/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA1LzIwLzJkMjMwZmMxNjBhZWY5ODNkMjU4YjAwNDZjN2I0MWIz.png"
+    },
+    "tagline": "Biotechnology startup developing personalized cancer therapies through molecular analysis of circulating tumor cells",
+    "url": "https://app.dealroom.cotzu_cancer_therapeutics",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Quantum Gateway Solutions",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/ab/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wNS8xNS80MWFmODNlMjNhOWUyOTRhNWI3YmIwNTYwNmM0YzhmZg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/17/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wNS8xNS80MWFmODNlMjNhOWUyOTRhNWI3YmIwNTYwNmM0YzhmZg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/2b/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA1LzE1LzQxYWY4M2UyM2E5ZTI5NGE1YjdiYjA1NjA2YzRjOGZm.png"
+    },
+    "tagline": "Quantum cybersecurity solutions ensuring data protection for large organizations with Quantum Shield and Quantum Path",
+    "url": "https://app.dealroom.coquantum_gateway_solutions",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Fortaegis Technologies",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/06/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wMy8wNS8xYWZlNTVmYTA5OWE2NWExNzBlMjYyYTI3ZjA1YjA2Yw==.jpeg",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/dd/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wMy8wNS8xYWZlNTVmYTA5OWE2NWExNzBlMjYyYTI3ZjA1YjA2Yw==.jpeg",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/9c/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzAzLzA1LzFhZmU1NWZhMDk5YTY1YTE3MGUyNjJhMjdmMDViMDZj.jpeg"
+    },
+    "tagline": "Ultra-secure semiconductors for collaborative intelligent systems in critical infrastructure",
+    "url": "https://app.dealroom.cofortaegis_technologies",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Moonwatt",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/88/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8xMi8xOS84ZWJiN2EwNTdkNDIzNWMwNGE5ZGNhMTM5M2ZjMTQ2ZQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/ac/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8xMi8xOS84ZWJiN2EwNTdkNDIzNWMwNGE5ZGNhMTM5M2ZjMTQ2ZQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/a1/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzEyLzE5LzhlYmI3YTA1N2Q0MjM1YzA0YTlkY2ExMzkzZmMxNDZl.png"
+    },
+    "tagline": "Sodium ion battery solutions for utility-scale energy storage, addressing renewable power intermittency with cost-effective technology",
+    "url": "https://app.dealroom.comoonwatt",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Raynetics",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/22/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8xMS8yNS9lOTNkZmRkYTc0NzE2ODNjZTYyOTJkMTRlMTBlYjJjMg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/b2/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8xMS8yNS9lOTNkZmRkYTc0NzE2ODNjZTYyOTJkMTRlMTBlYjJjMg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/ee/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzExLzI1L2U5M2RmZGRhNzQ3MTY4M2NlNjI5MmQxNGUxMGViMmMy.png"
+    },
+    "tagline": "AI-driven software transforming raw electron microscope images into high-fidelity 3D nanostructure models in minutes",
+    "url": "https://app.dealroom.coraynetics",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Visualise.Bio",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/03/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8xMi8wNy84MTM2Y2ZkZGRjZjhjOWQ2NWU1NThmZjQzZmM1ZjY4MA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/d0/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8xMi8wNy84MTM2Y2ZkZGRjZjhjOWQ2NWU1NThmZjQzZmM1ZjY4MA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/fd/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzEyLzA3LzgxMzZjZmRkZGNmOGM5ZDY1ZTU1OGZmNDNmYzVmNjgw.png"
+    },
+    "tagline": "Biological research with 3D visualisation and analysis tools for microscopy data",
+    "url": "https://app.dealroom.covisualise_bio",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Olivabot",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/97/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMC80Yzc3MDAwOWMwN2E0ZjVmNDFmMmMyOWFiNGQ0MTcyYQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/be/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMC80Yzc3MDAwOWMwN2E0ZjVmNDFmMmMyOWFiNGQ0MTcyYQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/7b/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzIwLzRjNzcwMDA5YzA3YTRmNWY0MWYyYzI5YWI0ZDQxNzJh.png"
+    },
+    "tagline": "Revolutionizing olive farming with advanced robotics for precision agriculture and sustainable practices",
+    "url": "https://app.dealroom.coolivabot",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "CuspAI",
+    "address": "N/A",
+    "city": {
+      "id": 74,
+      "name": "Cambridge",
+      "lat": 52.205337,
+      "lon": 0.121817
+    },
+    "country": {
+      "id": 9,
+      "name": "United Kingdom",
+      "lat": 51.465986,
+      "lon": -1.281401
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/a0/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMy9mY2Q3OTRhOWIyMTg5MGNkMTI4NDk5OTllMWFjOGI5NA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/5c/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMy9mY2Q3OTRhOWIyMTg5MGNkMTI4NDk5OTllMWFjOGI5NA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/f7/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzIzL2ZjZDc5NGE5YjIxODkwY2QxMjg0OTk5OWUxYWM4Yjk0.png"
+    },
+    "tagline": "Developing a platform to design new materials for sustainability and clean energy using use genAI, deep learning, and molecular simulation",
+    "url": "https://app.dealroom.cocuspai",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Antfarm",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/db/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC84MjQwZGZkNGU4NTdiYzE0M2NlNzUxMGVkNmQzNWFmMA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/bb/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC84MjQwZGZkNGU4NTdiYzE0M2NlNzUxMGVkNmQzNWFmMA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/84/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA0LzgyNDBkZmQ0ZTg1N2JjMTQzY2U3NTEwZWQ2ZDM1YWYw.png"
+    },
+    "tagline": "Antfarm makes sorting trash more profitable, contributing to a cleaner and healthier world",
+    "url": "https://app.dealroom.coantfarm_com",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Intelic",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/98/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9lOWUwMTkyODc5MWIzZTk2Y2UyMmUxZTk5Y2Q2ZDhhOA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/55/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9lOWUwMTkyODc5MWIzZTk2Y2UyMmUxZTk5Y2Q2ZDhhOA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/3e/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA0L2U5ZTAxOTI4NzkxYjNlOTZjZTIyZTFlOTljZDZkOGE4.png"
+    },
+    "tagline": "Providing \"NEXUS\", a software platform for Command & Control for military unmanned systems",
+    "url": "https://app.dealroom.coavalor_ai",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Balthazar Labs",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/21/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wOC80YmU5Zjc4NjVhNmU3OWQ1NTYxMDk4MmExYjQwMjk5OA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/e8/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wOC80YmU5Zjc4NjVhNmU3OWQ1NTYxMDk4MmExYjQwMjk5OA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/48/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA4LzRiZTlmNzg2NWE2ZTc5ZDU1NjEwOTgyYTFiNDAyOTk4.png"
+    },
+    "tagline": "Self driving labs for hardware",
+    "url": "https://app.dealroom.cobalthazar_labs",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Nano Hybrids",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/de/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMi8zZmRjY2ZlYjM0OGU5NmQxOWI5ZmMzNmU5OTdiMmJmMg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/a8/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMi8zZmRjY2ZlYjM0OGU5NmQxOWI5ZmMzNmU5OTdiMmJmMg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/94/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAyLzNmZGNjZmViMzQ4ZTk2ZDE5YjlmYzM2ZTk5N2IyYmYy.png"
+    },
+    "tagline": "Developing hybrid core-shell nanoparticles to address challenges of high-impact technological fields",
+    "url": "https://app.dealroom.conano_hybrids",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Brineworks",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/a0/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMS9lOTUzNjkzNzc3ODZjMDU0ZTEzOWNkOTEzNjA0NTE1Yg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/89/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMS9lOTUzNjkzNzc3ODZjMDU0ZTEzOWNkOTEzNjA0NTE1Yg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/8f/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzIxL2U5NTM2OTM3Nzc4NmMwNTRlMTM5Y2Q5MTM2MDQ1MTVi.png"
+    },
+    "tagline": "Removing atmospheric CO2, using desalination waste brine",
+    "url": "https://app.dealroom.cobrineworks",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Monumental",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/a9/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yOS8xYmNhODIzYmNiNzQyMTdlODUyMzUxZTA2MzZkYzgxZA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/1d/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yOS8xYmNhODIzYmNiNzQyMTdlODUyMzUxZTA2MzZkYzgxZA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/2f/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzI5LzFiY2E4MjNiY2I3NDIxN2U4NTIzNTFlMDYzNmRjODFk.png"
+    },
+    "tagline": "Automating on-site construction with robotics and software",
+    "url": "https://app.dealroom.comonumental_1",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Solaq",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/a5/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMy8wNjEwNTUwMDE1NzE5OTA2MzIzMTliZTYzNDgzMzFjYQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/82/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMy8wNjEwNTUwMDE1NzE5OTA2MzIzMTliZTYzNDgzMzFjYQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/35/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAzLzA2MTA1NTAwMTU3MTk5MDYzMjMxOWJlNjM0ODMzMWNh.png"
+    },
+    "tagline": "Water from air. Anywhere",
+    "url": "https://app.dealroom.cosolaq",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Oxaigen",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/6a/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMS82MmZlNzRkNmEwN2I0Zjc4YTIxY2RlM2Y0ZjBhOTBhZA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/ce/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMS82MmZlNzRkNmEwN2I0Zjc4YTIxY2RlM2Y0ZjBhOTBhZA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/38/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzIxLzYyZmU3NGQ2YTA3YjRmNzhhMjFjZGUzZjRmMGE5MGFk.png"
+    },
+    "tagline": "Oxaigen B.V. uses AI to offer data-driven solutions for hospitals and real-time patient recommendations in intensive care medicine",
+    "url": "https://app.dealroom.cooxaigen",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "DEBx Medical",
+    "address": "N/A",
+    "city": {
+      "id": 165,
+      "name": "Rotterdam",
+      "lat": 51.92442,
+      "lon": 4.477733
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/11/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNi82MzQwNGUzYzk2Y2U4NzRmYjFmMGExMWY0MTk3ZjA2OQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/d3/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNi82MzQwNGUzYzk2Y2U4NzRmYjFmMGExMWY0MTk3ZjA2OQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/bc/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE2LzYzNDA0ZTNjOTZjZTg3NGZiMWYwYTExZjQxOTdmMDY5.png"
+    },
+    "tagline": "A MedTech company that improves the quality of life of the millions of people suffering from chronic wounds",
+    "url": "https://app.dealroom.codebx_medical",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Movanta Biofuels",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/d8/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wNS8xOC9jYjM4NjI4MmIxOTZhYmU4ZjRhOTE4Y2FkN2YyYTBmNA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/e2/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wNS8xOC9jYjM4NjI4MmIxOTZhYmU4ZjRhOTE4Y2FkN2YyYTBmNA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/ec/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIzLzA1LzE4L2NiMzg2MjgyYjE5NmFiZThmNGE5MThjYWQ3ZjJhMGY0.png"
+    },
+    "tagline": "Aims to convert large quantities of organic waste streams into biocrude, a sustainable product that resembles crude oil",
+    "url": "https://app.dealroom.comovanta_biofuels",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Farmless",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/0f/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNy9hYjI4ODZhMTQxNzkxNDgyMmUxZWM4YjgxNzFmOWRjMw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/17/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNy9hYjI4ODZhMTQxNzkxNDgyMmUxZWM4YjgxNzFmOWRjMw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/82/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE3L2FiMjg4NmExNDE3OTE0ODIyZTFlYzhiODE3MWY5ZGMz.png"
+    },
+    "tagline": "Decoupling food production from arable land by turning renewable energy into food with synthetic biology and microbes",
+    "url": "https://app.dealroom.cofarmless",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Chunk Works",
+    "address": "N/A",
+    "city": {
+      "id": 256,
+      "name": "Haarlem",
+      "lat": 52.387388,
+      "lon": 4.646219
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/9f/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wNi8yMC8yMTExYTkzYmQzZmI2YTIzYTQ4Y2UwOWZkZWU4YTU4OQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/35/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wNi8yMC8yMTExYTkzYmQzZmI2YTIzYTQ4Y2UwOWZkZWU4YTU4OQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/8d/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIzLzA2LzIwLzIxMTFhOTNiZDNmYjZhMjNhNDhjZTA5ZmRlZThhNTg5.png"
+    },
+    "tagline": "A unified platform to simplify data storage infrastructure management",
+    "url": "https://app.dealroom.cochunkworks_net",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Ore Energy",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/97/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMy82ZmE4Y2RhNjJjMjVlZWVjZjUzMzJmNjY5NWFmYzcxNw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/12/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMy82ZmE4Y2RhNjJjMjVlZWVjZjUzMzJmNjY5NWFmYzcxNw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/00/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAzLzZmYThjZGE2MmMyNWVlZWNmNTMzMmY2Njk1YWZjNzE3.png"
+    },
+    "tagline": "Creating a new generation long-duration energy storage solution",
+    "url": "https://app.dealroom.coore_energy",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "AtMoves",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/74/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMy8xNC82OGZjMjYyZTlhYTQ4ZTExMjRlYjE2MDlkOTI3MjNmMA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/8a/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMy8xNC82OGZjMjYyZTlhYTQ4ZTExMjRlYjE2MDlkOTI3MjNmMA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/5e/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIzLzAzLzE0LzY4ZmMyNjJlOWFhNDhlMTEyNGViMTYwOWQ5MjcyM2Yw.png"
+    },
+    "tagline": "Precision in diagnosing complication in total joint replacement surgery",
+    "url": "https://app.dealroom.coorthokey_1",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Lumetallix",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/ad/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMy8wMy8xNzE3NWRjMGRhNTdjYTM0MmFkNGY4YTRkMWM4OTBhYQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/b8/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMy8wMy8xNzE3NWRjMGRhNTdjYTM0MmFkNGY4YTRkMWM4OTBhYQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/f1/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIzLzAzLzAzLzE3MTc1ZGMwZGE1N2NhMzQyYWQ0ZjhhNGQxYzg5MGFh.png"
+    },
+    "tagline": "Offers a spray‑on reagent and UV light that instantly reveals lead by causing it to glow bright green",
+    "url": "https://app.dealroom.columetallix",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Nebius Group",
+    "address": "N/A",
+    "city": {
+      "id": 607,
+      "name": "Venice",
+      "lat": 45.440847,
+      "lon": 12.315515
+    },
+    "country": {
+      "id": 11,
+      "name": "Italy",
+      "lat": 41.87194,
+      "lon": 12.56738
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/2d/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMC9jNGQzYTM2NjZiYmFlZDcxMGVhNjcxMTcyMmEzZmQ5Yw==.jpg",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/66/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMC9jNGQzYTM2NjZiYmFlZDcxMGVhNjcxMTcyMmEzZmQ5Yw==.jpg",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/bc/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzIwL2M0ZDNhMzY2NmJiYWVkNzEwZWE2NzExNzIyYTNmZDlj.jpg"
+    },
+    "tagline": "Scalable GPU infrastructure powering enterprise AI solutions",
+    "url": "https://app.dealroom.conebius_group",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Cradle",
+    "address": "N/A",
+    "city": {
+      "id": 104741,
+      "name": "Zurich",
+      "lat": 1,
+      "lon": 8.529857
+    },
+    "country": {
+      "id": 18,
+      "name": "Switzerland",
+      "lat": 46.818188,
+      "lon": 8.227512
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/f2/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMS83ZDg5ZDRiYjllYzQxNTRiNzZjZGNkYTVlMDI0ZDE3MQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/99/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMS83ZDg5ZDRiYjllYzQxNTRiNzZjZGNkYTVlMDI0ZDE3MQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/59/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzIxLzdkODlkNGJiOWVjNDE1NGI3NmNkY2RhNWUwMjRkMTcx.png"
+    },
+    "tagline": "Helps biologists design improved proteins in record time using powerful prediction algorithms and AI design suggestions",
+    "url": "https://app.dealroom.cocradle_bio",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "SeaO2",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/2c/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9lZjRkYTI5ZDlmNTk4OTVmOThhZGUzOTAxNmJmNTk1NA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/ee/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9lZjRkYTI5ZDlmNTk4OTVmOThhZGUzOTAxNmJmNTk1NA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/c0/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA0L2VmNGRhMjlkOWY1OTg5NWY5OGFkZTM5MDE2YmY1OTU0.png"
+    },
+    "tagline": "Turning captured CO2 from seawater into business",
+    "url": "https://app.dealroom.coseao2_",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Eddytec",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/90/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMy9mNTgyZWIyOTU2NGY0MDg5MTY1MWFiZjExYzA4MThlMA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/7a/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMy9mNTgyZWIyOTU2NGY0MDg5MTY1MWFiZjExYzA4MThlMA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/c4/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzIzL2Y1ODJlYjI5NTY0ZjQwODkxNjUxYWJmMTFjMDgxOGUw.png"
+    },
+    "tagline": "Fast, accurate non-destructive testing of carbon composite materials using eddy-current technology",
+    "url": "https://app.dealroom.coeddytec",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "SolarFoil",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/b5/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9lNzJhOWEzNzg1N2I5M2YwMjhiZWEzNDM0ZWI0YzY3ZQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/c3/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9lNzJhOWEzNzg1N2I5M2YwMjhiZWEzNDM0ZWI0YzY3ZQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/b8/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA0L2U3MmE5YTM3ODU3YjkzZjAyOGJlYTM0MzRlYjRjNjdl.png"
+    },
+    "tagline": "T ailored to your situation",
+    "url": "https://app.dealroom.cosolarfoil_bv",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Fermioniq",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/40/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yNS9hMjBjZWJjMjJmMTQzM2IyOTA4MTA3YjU2NTI0ZDQ5Ng==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/9c/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yNS9hMjBjZWJjMjJmMTQzM2IyOTA4MTA3YjU2NTI0ZDQ5Ng==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/84/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzI1L2EyMGNlYmMyMmYxNDMzYjI5MDgxMDdiNTY1MjRkNDk2.png"
+    },
+    "tagline": "Operates as a quantum software company",
+    "url": "https://app.dealroom.cofermioniq_bv",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Thorizon",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/02/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNS8wMWZjMTY4YzMwNmYxMDNhMTIzODk4Y2VhYmEwODE5Mw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/dc/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNS8wMWZjMTY4YzMwNmYxMDNhMTIzODk4Y2VhYmEwODE5Mw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/85/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA1LzAxZmMxNjhjMzA2ZjEwM2ExMjM4OThjZWFiYTA4MTkz.png"
+    },
+    "tagline": "Developing a 100MW reactor based on molten salt technology",
+    "url": "https://app.dealroom.cothorizon",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Rapid Photonics",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/d6/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMy82MTJlZjY4OGQ5YTRhY2IyZWY5MTcyZDFkZDM2ZjZkMg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/74/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMy82MTJlZjY4OGQ5YTRhY2IyZWY5MTcyZDFkZDM2ZjZkMg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/d5/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAzLzYxMmVmNjg4ZDlhNGFjYjJlZjkxNzJkMWRkMzZmNmQy.png"
+    },
+    "tagline": "Rapid Photonics is an innovative global provider of etch-free hybrid photonic integrated circuits (PIC)",
+    "url": "https://app.dealroom.corapid_photonics",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Weaviate",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/56/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMS80MDhhNzRjMjA5NDQ1Mjg5Mjk5OGU3MjEwZWJkMGM1Zg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/1c/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMS80MDhhNzRjMjA5NDQ1Mjg5Mjk5OGU3MjEwZWJkMGM1Zg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/25/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzIxLzQwOGE3NGMyMDk0NDUyODkyOTk4ZTcyMTBlYmQwYzVm.png"
+    },
+    "tagline": "Weaviate is a cloud-native, real-time vector database that allows you to bring your machine learning models to scale",
+    "url": "https://app.dealroom.coweaviate",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Coolgradient",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/71/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yNC9jNjJiMTNjNDgxNDVhNzRkMWQwZjVkNTRjYjczOTEyYQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/9f/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yNC9jNjJiMTNjNDgxNDVhNzRkMWQwZjVkNTRjYjczOTEyYQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/8e/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzI0L2M2MmIxM2M0ODE0NWE3NGQxZDBmNWQ1NGNiNzM5MTJh.png"
+    },
+    "tagline": "Roof-to-roof AI optimization suite for data centres",
+    "url": "https://app.dealroom.cocoolgradient",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Lumicks",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/93/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yNy9hMjY4NjY4M2Y5Nzk0NDUxN2RhZDQzNjc4Mzc0N2QwMA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/5f/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yNy9hMjY4NjY4M2Y5Nzk0NDUxN2RhZDQzNjc4Mzc0N2QwMA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/53/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzI3L2EyNjg2NjgzZjk3OTQ0NTE3ZGFkNDM2NzgzNzQ3ZDAw.png"
+    },
+    "tagline": "A supplier of dynamic single-molecule and cell avidity analysis instruments",
+    "url": "https://app.dealroom.columicks",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Kaiko",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/43/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xOS84NDg5ZTA2ZWViYTAwMWNhMmViOGQ0ODY4NGIxNWM3ZQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/e3/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xOS84NDg5ZTA2ZWViYTAwMWNhMmViOGQ0ODY4NGIxNWM3ZQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/a3/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE5Lzg0ODllMDZlZWJhMDAxY2EyZWI4ZDQ4Njg0YjE1Yzdl.png"
+    },
+    "tagline": "Kaiko.ai is a data and AI company that connects medical research with clinical application by developing and integrating multimodal foundation models for oncology",
+    "url": "https://app.dealroom.cokaiko",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Deltaquad",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/96/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMi8xMi8wNi82NTYzNWEzZWUyYzdhODIwMTM0Yjg3MTEwYzNlZjY2MA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/ec/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMi8xMi8wNi82NTYzNWEzZWUyYzdhODIwMTM0Yjg3MTEwYzNlZjY2MA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/d9/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIyLzEyLzA2LzY1NjM1YTNlZTJjN2E4MjAxMzRiODcxMTBjM2VmNjYw.png"
+    },
+    "tagline": "A VTOL UAV packed with features to make it the most powerful VTOL drone on the market",
+    "url": "https://app.dealroom.covertical_technologies_1",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Allergios",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/b5/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMi82ZDE1NTFhMTY0ZWRiMjMzMzQwYzc4YjUwNDk3YjFkZg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/7c/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMi82ZDE1NTFhMTY0ZWRiMjMzMzQwYzc4YjUwNDk3YjFkZg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/e3/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzIyLzZkMTU1MWExNjRlZGIyMzMzNDBjNzhiNTA0OTdiMWRm.png"
+    },
+    "tagline": "Allergios offers direct allergy diagnosis by visualizing the allergic response from a blood sample",
+    "url": "https://app.dealroom.coallergios",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "SanguisAI",
+    "address": "N/A",
+    "city": {
+      "id": 117989,
+      "name": "Amstelveen",
+      "lat": 52.286218,
+      "lon": 4.852649
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/46/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNS82MzI1NWQzOWUwYWYwMGIxZGM4NGUyMzUyZDA4MDUxMQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/c8/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNS82MzI1NWQzOWUwYWYwMGIxZGM4NGUyMzUyZDA4MDUxMQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/cb/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA1LzYzMjU1ZDM5ZTBhZjAwYjFkYzg0ZTIzNTJkMDgwNTEx.png"
+    },
+    "tagline": "Develops clip-on devices for consumers and medical service providers to measure hemoglobin",
+    "url": "https://app.dealroom.cosanguisai",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Omni Wind",
+    "address": "N/A",
+    "city": {
+      "id": 134,
+      "name": "Eindhoven",
+      "lat": 51.441642,
+      "lon": 5.469722
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/ff/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wOS9mYjNlODY4N2E0MWVmMmFiYTdmOTQ5MDVjYjVmMzJhNw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/70/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wOS9mYjNlODY4N2E0MWVmMmFiYTdmOTQ5MDVjYjVmMzJhNw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/5e/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA5L2ZiM2U4Njg3YTQxZWYyYWJhN2Y5NDkwNWNiNWYzMmE3.png"
+    },
+    "tagline": "Patented duct technology boosting small wind turbine output",
+    "url": "https://app.dealroom.coomni_wind",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Hadrian",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/34/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMy83ZTc5OTc4M2NmZDYwNDJhZmJhYjVkOTM1YjExMGUwOQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/ff/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMy83ZTc5OTc4M2NmZDYwNDJhZmJhYjVkOTM1YjExMGUwOQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/47/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzIzLzdlNzk5NzgzY2ZkNjA0MmFmYmFiNWQ5MzViMTEwZTA5.png"
+    },
+    "tagline": "Hadrian uses cloud technology and machine learning to deliver scalable, accurate and detailed security insights from the outside perspective",
+    "url": "https://app.dealroom.cohadrian_1",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Tective Robotics",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/bd/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNS80YTFjNWFjZTI0ZjYzYWRkYTU0ZGE3NGFmNWY2ODUyZQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/38/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNS80YTFjNWFjZTI0ZjYzYWRkYTU0ZGE3NGFmNWY2ODUyZQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/57/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA1LzRhMWM1YWNlMjRmNjNhZGRhNTRkYTc0YWY1ZjY4NTJl.png"
+    },
+    "tagline": "Autonomous drone-in-a-box solutions for aerial data acquisition",
+    "url": "https://app.dealroom.cotective_robotics",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Annogen",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/4d/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMi85NjZmNDRjZTBkY2Q3MGRlNGQyY2EwZWU2ZjJiZjhhNg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/07/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMi85NjZmNDRjZTBkY2Q3MGRlNGQyY2EwZWU2ZjJiZjhhNg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/20/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzIyLzk2NmY0NGNlMGRjZDcwZGU0ZDJjYTBlZTZmMmJmOGE2.png"
+    },
+    "tagline": "New era in gene expression engineering, offering advanced platforms for the design and optimization of bespoke gene promoters and expression loci for therapeutic and agricultural applications",
+    "url": "https://app.dealroom.coannogen",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Amplio Pharma",
+    "address": "N/A",
+    "city": {
+      "id": 1097,
+      "name": "Leiden",
+      "lat": 52.160114,
+      "lon": 4.49701
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/4b/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMy84MWFhNWUxNzFjMmRmZDRmMTg5MmQ3NWVjODE5N2E0YQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/88/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMy84MWFhNWUxNzFjMmRmZDRmMTg5MmQ3NWVjODE5N2E0YQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/2b/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzIzLzgxYWE1ZTE3MWMyZGZkNGYxODkyZDc1ZWM4MTk3YTRh.png"
+    },
+    "tagline": "Drug retention technology amplifying existing treatment efficacy",
+    "url": "https://app.dealroom.coamplio_pharma",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "ASCENSCIA",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/19/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMy8wZTc0NzFkZWU2MDMzYzM1ZWMyNzJkMWMxOGVmMmQwYQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/7e/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMy8wZTc0NzFkZWU2MDMzYzM1ZWMyNzJkMWMxOGVmMmQwYQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/fa/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzIzLzBlNzQ3MWRlZTYwMzNjMzVlYzI3MmQxYzE4ZWYyZDBh.png"
+    },
+    "tagline": "Provides voice assistants for biomedical lab workers",
+    "url": "https://app.dealroom.coascenscia_1",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Incircular",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/50/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yNS85MzBhZGIyZGJmZTc1YjA2YTMzYmUxZWNkNDBlMzY4NA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/a2/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yNS85MzBhZGIyZGJmZTc1YjA2YTMzYmUxZWNkNDBlMzY4NA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/2c/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzI1LzkzMGFkYjJkYmZlNzViMDZhMzNiZTFlY2Q0MGUzNjg0.png"
+    },
+    "tagline": "Incircular designs and stabilizes proteins using INCYPRO",
+    "url": "https://app.dealroom.coincircular_b_v_",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Hypherdata",
+    "address": "N/A",
+    "city": {
+      "id": 256,
+      "name": "Haarlem",
+      "lat": 52.387388,
+      "lon": 4.646219
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/73/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yOC80ZWYyZmE2YjI5N2Q4MmQwMmUwYzcxZWNjYzRhZTkxMQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/12/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yOC80ZWYyZmE2YjI5N2Q4MmQwMmUwYzcxZWNjYzRhZTkxMQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/f4/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzI4LzRlZjJmYTZiMjk3ZDgyZDAyZTBjNzFlY2NjNGFlOTEx.png"
+    },
+    "tagline": "Built by scientists and tech entrepreneurs, we are part of the movement to bring more pragmatic solutions for data dissemination in Life Sciences ecosystem",
+    "url": "https://app.dealroom.cohypherdata",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "VectorY Therapeutics",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/b0/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNy8yODdmOGFkNjVhZjk5NGUzYTUwZjdiZWEwN2M2NjU1Nw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/10/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNy8yODdmOGFkNjVhZjk5NGUzYTUwZjdiZWEwN2M2NjU1Nw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/dc/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA3LzI4N2Y4YWQ2NWFmOTk0ZTNhNTBmN2JlYTA3YzY2NTU3.png"
+    },
+    "tagline": "Combines the therapeutic potential of antibodies and gene therapy to develop long-lasting therapeutic solutions",
+    "url": "https://app.dealroom.covectory",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Dispertech",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/84/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMi9mN2U2Y2NkZjc3NzdkYjBkOWVmYTExYzNlODdiOTM3NQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/71/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMi9mN2U2Y2NkZjc3NzdkYjBkOWVmYTExYzNlODdiOTM3NQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/4c/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzIyL2Y3ZTZjY2RmNzc3N2RiMGQ5ZWZhMTFjM2U4N2I5Mzc1.png"
+    },
+    "tagline": "Developing tools to analyze the (sub)populations of nanoparticles",
+    "url": "https://app.dealroom.codispertech",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Source.ag",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/cc/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9lYzM3YzY1OWI1ZjFiMGUxZGYzM2UxYzAxNzQ5YjgyNw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/30/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9lYzM3YzY1OWI1ZjFiMGUxZGYzM2UxYzAxNzQ5YjgyNw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/f7/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA0L2VjMzdjNjU5YjVmMWIwZTFkZjMzZTFjMDE3NDliODI3.png"
+    },
+    "tagline": "Democratising access to sufficient fruit and vegetables with A.I. powered indoor farms",
+    "url": "https://app.dealroom.cosource_ag",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Contextlabs",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/90/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMi80NmU3ZjE4OTBhYWJkYzNjZjI0ZWRiY2FmY2VmMzk5ZQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/71/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMi80NmU3ZjE4OTBhYWJkYzNjZjI0ZWRiY2FmY2VmMzk5ZQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/d2/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzIyLzQ2ZTdmMTg5MGFhYmRjM2NmMjRlZGJjYWZjZWYzOTll.png"
+    },
+    "tagline": "Secure Distributed Ledgers Network Graph Analytics Data Interoperability Data Visualization Trusted Identity",
+    "url": "https://app.dealroom.cocontextlabs",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Skinive",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/ea/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC8wNjA5MDBjYWVkYmZjYzFmMjI5ZTU2MjRiZjZjMTA2Mw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/0d/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC8wNjA5MDBjYWVkYmZjYzFmMjI5ZTU2MjRiZjZjMTA2Mw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/01/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA0LzA2MDkwMGNhZWRiZmNjMWYyMjllNTYyNGJmNmMxMDYz.png"
+    },
+    "tagline": "Skin Health AI-Tracking apps for home use and medical professionals",
+    "url": "https://app.dealroom.coskinive_holding_bv",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Sensity AI (formerly Deeptrace)",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/5d/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC8xNzkyMmU3NTU0ODA1NjY1NjkyNDQyZmM1Zjc4NjNmNg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/ce/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC8xNzkyMmU3NTU0ODA1NjY1NjkyNDQyZmM1Zjc4NjNmNg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/c6/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA0LzE3OTIyZTc1NTQ4MDU2NjU2OTI0NDJmYzVmNzg2M2Y2.png"
+    },
+    "tagline": "Deepfakes and visual threats detection",
+    "url": "https://app.dealroom.cosensity_ai",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Medical VR",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/12/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNS9iNGNmMWU5MTljOTNlY2FjNTkyNzQ2NTliMmFiNDJjMw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/bb/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNS9iNGNmMWU5MTljOTNlY2FjNTkyNzQ2NTliMmFiNDJjMw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/8f/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE1L2I0Y2YxZTkxOWM5M2VjYWM1OTI3NDY1OWIyYWI0MmMz.png"
+    },
+    "tagline": "Visualizing CT-scans in immersive 3D Virtual Reality for surgeons",
+    "url": "https://app.dealroom.comedical_vr",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Zeta Alpha",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/eb/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xMC9lNzIxMWFlOWFlY2VjZjZkOTA2ODQ2OWFlMjRjMGVkNw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/78/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xMC9lNzIxMWFlOWFlY2VjZjZkOTA2ODQ2OWFlMjRjMGVkNw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/2c/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzEwL2U3MjExYWU5YWVjZWNmNmQ5MDY4NDY5YWUyNGMwZWQ3.png"
+    },
+    "tagline": "Zeta Alpha is building the next generation Search and Insights platform, 100% focused on AI and Data Science teams",
+    "url": "https://app.dealroom.cozeta_alpha_vector",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Studio Solarix",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/ad/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNy8zMGFiMGJlN2Q2MDNjMTBmMDRjOTZmNjgwNGEyMDA0NQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/63/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNy8zMGFiMGJlN2Q2MDNjMTBmMDRjOTZmNjgwNGEyMDA0NQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/be/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE3LzMwYWIwYmU3ZDYwM2MxMGYwNGM5NmY2ODA0YTIwMDQ1.png"
+    },
+    "tagline": "Designs, develops and supplies innovative coloured solar panels for facades",
+    "url": "https://app.dealroom.costudio_solarix",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Photosynthetic",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/f6/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMi81MmY0MTg5ZDIzMGU4NmM2OGU4YjQwZDhkNTViODQ4MA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/8b/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMi81MmY0MTg5ZDIzMGU4NmM2OGU4YjQwZDhkNTViODQ4MA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/60/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAyLzUyZjQxODlkMjMwZTg2YzY4ZThiNDBkOGQ1NWI4NDgw.png"
+    },
+    "tagline": "High-resolution microfabrication 3D printing technology",
+    "url": "https://app.dealroom.cophotosynthetic",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Qurin Diagnostics",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/b2/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wMy8wNS83NTQyNDUxYzNmZTg1NzU0NGI1Yjg2NmE0YWQ4OGUzOQ==.jpg",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/12/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wMy8wNS83NTQyNDUxYzNmZTg1NzU0NGI1Yjg2NmE0YWQ4OGUzOQ==.jpg",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/6e/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzAzLzA1Lzc1NDI0NTFjM2ZlODU3NTQ0YjViODY2YTRhZDg4ZTM5.jpg"
+    },
+    "tagline": "Biotechnology company developing non-invasive, urine-based diagnostic technologies to enable early and accurate cancer detection",
+    "url": "https://app.dealroom.coqurin",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Nostics",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/37/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9mNjVhYmY3OWI3MTBhNDUzMmNiNzUyZDc1MzkyOTUwMg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/80/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9mNjVhYmY3OWI3MTBhNDUzMmNiNzUyZDc1MzkyOTUwMg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/71/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA0L2Y2NWFiZjc5YjcxMGE0NTMyY2I3NTJkNzUzOTI5NTAy.png"
+    },
+    "tagline": "By applying nanotechnology, photonics and machine learning, Nostics brings a new type of diagnostics to a world desperately in need for 21st century solutions",
+    "url": "https://app.dealroom.conostics",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Veridis Technologies",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/ac/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNy9hNjBlMWMwZjhkZTYzYTg1MTU4ZTAyMzMxOTdhNDdjZQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/63/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNy9hNjBlMWMwZjhkZTYzYTg1MTU4ZTAyMzMxOTdhNDdjZQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/f2/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA3L2E2MGUxYzBmOGRlNjNhODUxNThlMDIzMzE5N2E0N2Nl.png"
+    },
+    "tagline": "Developing innovative analytical technology to improve quality control and revolutionize plastic recycling",
+    "url": "https://app.dealroom.coveridis_instruments",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Promaton",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/13/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9hM2Y2YjlmMzA4NmYwN2MwZTRlNzhlMDZmYjI5OTVkMA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/45/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9hM2Y2YjlmMzA4NmYwN2MwZTRlNzhlMDZmYjI5OTVkMA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/1d/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA0L2EzZjZiOWYzMDg2ZjA3YzBlNGU3OGUwNmZiMjk5NWQw.png"
+    },
+    "tagline": "AI-Driven automation in Dentistry. Promaton is revolutionizing dentistry through artificial intelligence",
+    "url": "https://app.dealroom.copromaton",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Laser Tribology",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/83/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yNy82OTg4YjY4NGNkNTAzMmI0MzJhMjk2Yjk1OGZlYWQyOQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/dc/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yNy82OTg4YjY4NGNkNTAzMmI0MzJhMjk2Yjk1OGZlYWQyOQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/ad/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzI3LzY5ODhiNjg0Y2Q1MDMyYjQzMmEyOTZiOTU4ZmVhZDI5.png"
+    },
+    "tagline": "The LPS LaserTrain cleans contamination of the railway, eradicating low adhesion slippery railways caused by autumn leaves",
+    "url": "https://app.dealroom.colaser_tribology",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Ellogon.ai",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/4e/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wNS8yNy8zNDFlZWU3M2Y2NmFhNTkwM2YyOTI5N2YzNGVkYjgzNg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/df/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wNS8yNy8zNDFlZWU3M2Y2NmFhNTkwM2YyOTI5N2YzNGVkYjgzNg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/46/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA1LzI3LzM0MWVlZTczZjY2YWE1OTAzZjI5Mjk3ZjM0ZWRiODM2.png"
+    },
+    "tagline": "Working on personalizing immunotherapy with the power of big and rich data, cutting-edge algorithms, and, of course, a world-class research and development team",
+    "url": "https://app.dealroom.coellogon_ai",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Spectris-Dot",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/52/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yNC9kY2Q1ZDI4ZjBjY2QxYmFjODE2MzM1NzE0ODRmNWRmYw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/d5/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yNC9kY2Q1ZDI4ZjBjY2QxYmFjODE2MzM1NzE0ODRmNWRmYw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/7a/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIzLzAxLzI0L2RjZDVkMjhmMGNjZDFiYWM4MTYzMzU3MTQ4NGY1ZGZj.png"
+    },
+    "tagline": "Development of non-toxic semiconductor quantum dots (SQ-dots) with efficient, tunable emission",
+    "url": "https://app.dealroom.cospectris_dot",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "SusPhos",
+    "address": "N/A",
+    "city": {
+      "id": 1981,
+      "name": "Leeuwarden",
+      "lat": 53.201233,
+      "lon": 5.799913
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/c4/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNS82ZmU3M2MwZDc0MWQ3Mzg0YjBmODkwYTdlZWI4NWVjOA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/85/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNS82ZmU3M2MwZDc0MWQ3Mzg0YjBmODkwYTdlZWI4NWVjOA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/7d/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA1LzZmZTczYzBkNzQxZDczODRiMGY4OTBhN2VlYjg1ZWM4.png"
+    },
+    "tagline": "Upcycling of phosphate rich waste streams to generate high-quality alternatives for fossil-sourced products",
+    "url": "https://app.dealroom.cosusphos",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "WSK Medical",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/f4/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wOC9lYWIwMmRiMDBiMzRjNGVmYjAxOTE2MGM1NGExNmFmMw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/07/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wOC9lYWIwMmRiMDBiMzRjNGVmYjAxOTE2MGM1NGExNmFmMw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/c1/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA4L2VhYjAyZGIwMGIzNGM0ZWZiMDE5MTYwYzU0YTE2YWYz.png"
+    },
+    "tagline": "WSK Medical is the first and only company that have developed and launched (CE-MDR class IIb approved) an AI solution that is able to detect and classify head and neck cancer during an endoscopy in real-time",
+    "url": "https://app.dealroom.cowsk_medical",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Seaborough",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/2f/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNi85ODEzNjllNGYxOTAwYmJjNzlkOTQ0N2RiZGY3N2U2YQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/61/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNi85ODEzNjllNGYxOTAwYmJjNzlkOTQ0N2RiZGY3N2U2YQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/fd/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE2Lzk4MTM2OWU0ZjE5MDBiYmM3OWQ5NDQ3ZGJkZjc3ZTZh.png"
+    },
+    "tagline": "Driven by innovations, Seaborough develops meaningful light solutions for a better world",
+    "url": "https://app.dealroom.coseaborough",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Am-Flow",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/57/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNS8wZWEyZjAyYWJmNTE4MzEyMmE5ZDMwODQ1ZTNiYWEwNA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/13/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNS8wZWEyZjAyYWJmNTE4MzEyMmE5ZDMwODQ1ZTNiYWEwNA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/46/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE1LzBlYTJmMDJhYmY1MTgzMTIyYTlkMzA4NDVlM2JhYTA0.png"
+    },
+    "tagline": "Industry 4.0 in 3D-printing post production",
+    "url": "https://app.dealroom.coam_flow",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Bambooder",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/f9/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMi80MTNjMDNlMjU1OWY5MjlkNDAxMTJhMjZkMjk0M2FmZg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/4e/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMi80MTNjMDNlMjU1OWY5MjlkNDAxMTJhMjZkMjk0M2FmZg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/ae/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAyLzQxM2MwM2UyNTU5ZjkyOWQ0MDExMmEyNmQyOTQzYWZm.png"
+    },
+    "tagline": "Bambooder produces and develops bio-based fibers that will fully or partly replace minerals for renewable bio-based raw materials in order to create new applications for the composite industry",
+    "url": "https://app.dealroom.cobambooder_biobases_fiber_bv",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Dexter Energy",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/06/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMS8yMjI1ZDJlZmExMmQyNGUyNDVkZGQ0N2E3ODc5OTgzOA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/bb/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMS8yMjI1ZDJlZmExMmQyNGUyNDVkZGQ0N2E3ODc5OTgzOA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/d3/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAxLzIyMjVkMmVmYTEyZDI0ZTI0NWRkZDQ3YTc4Nzk5ODM4.png"
+    },
+    "tagline": "Forecast & Trade Optimization Powered by AI",
+    "url": "https://app.dealroom.codexter_energy_services",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "PX Systems",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/8f/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yMi8yNGFmZmZhYmQzNWY1NzFhYjM3MDBhNmJkOWIwOWU5Yw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/2d/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yMi8yNGFmZmZhYmQzNWY1NzFhYjM3MDBhNmJkOWIwOWU5Yw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/95/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIzLzAxLzIyLzI0YWZmZmFiZDM1ZjU3MWFiMzcwMGE2YmQ5YjA5ZTlj.png"
+    },
+    "tagline": "Developing next generation cybersecurity tools since 2015",
+    "url": "https://app.dealroom.copx_systems",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "LinXis",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/1c/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xOS9iZjNkZDJkMWVmZWFmNmY5OGExMjcxNDZiZGFiN2IzZA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/63/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xOS9iZjNkZDJkMWVmZWFmNmY5OGExMjcxNDZiZGFiN2IzZA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/90/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE5L2JmM2RkMmQxZWZlYWY2Zjk4YTEyNzE0NmJkYWI3YjNk.png"
+    },
+    "tagline": "Specialized in the development of targeted drugs to treat cancer and chronic diseases",
+    "url": "https://app.dealroom.colinxis",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "GBM Works",
+    "address": "N/A",
+    "city": {
+      "id": 106288,
+      "name": "Utrecht",
+      "lat": 1,
+      "lon": 5.127684
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/fc/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yNS9jNTJjNDkzMzg2NTBjZjQ2ZmQzZGYxYmU0OTJmODkxZg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/e8/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yNS9jNTJjNDkzMzg2NTBjZjQ2ZmQzZGYxYmU0OTJmODkxZg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/d3/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzI1L2M1MmM0OTMzODY1MGNmNDZmZDNkZjFiZTQ5MmY4OTFm.png"
+    },
+    "tagline": "Silent installation methods for near shore and offshore foundations, adding value to wind energy industry",
+    "url": "https://app.dealroom.cogbm_works",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "The Waste Transformers",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/f5/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yMS9kNjc1OTczMjdhNzVlMDcxMjQ4ZDQ4NTI4MzljN2RjNA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/79/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yMS9kNjc1OTczMjdhNzVlMDcxMjQ4ZDQ4NTI4MzljN2RjNA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/74/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIzLzAxLzIxL2Q2NzU5NzMyN2E3NWUwNzEyNDhkNDg1MjgzOWM3ZGM0.png"
+    },
+    "tagline": "From organic (food) waste to value, all on-site - Green energy, organic fertilizer and a healthy business case",
+    "url": "https://app.dealroom.cothe_waste_transformers",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "SuperSeton",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/cb/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNy9jMTk4NmU1NDgyZGU5NGYzNWI4OWE1NDNiYWRjMzY2NQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/a2/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNy9jMTk4NmU1NDgyZGU5NGYzNWI4OWE1NDNiYWRjMzY2NQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/7d/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE3L2MxOTg2ZTU0ODJkZTk0ZjM1Yjg5YTU0M2JhZGMzNjY1.png"
+    },
+    "tagline": "An innovative knotless seton for use in peri-anal fistula",
+    "url": "https://app.dealroom.cosuperseton",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Kepler Vision Technologies",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/a3/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yNS9jMTk0ZmQxZmRmMjliNWY1OWIzZjMyYjc2ZjdkYTNmNw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/15/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yNS9jMTk0ZmQxZmRmMjliNWY1OWIzZjMyYjc2ZjdkYTNmNw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/c7/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzI1L2MxOTRmZDFmZGYyOWI1ZjU5YjNmMzJiNzZmN2RhM2Y3.png"
+    },
+    "tagline": "Developing the first computer-vision-based artificial intelligence software to look after the well-being of humans, at night",
+    "url": "https://app.dealroom.cokepler_vision_technologies",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "ChainCraft",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/fb/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNy9iYjAwYzE0NDZkZTBkMWE5MmMwZWI2N2I1ZjI1MTlhYg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/1e/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNy9iYjAwYzE0NDZkZTBkMWE5MmMwZWI2N2I1ZjI1MTlhYg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/e7/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA3L2JiMDBjMTQ0NmRlMGQxYTkyYzBlYjY3YjVmMjUxOWFi.png"
+    },
+    "tagline": "Develops mixed culture fermentation technologies in order to produce sustainable biobased chemicals",
+    "url": "https://app.dealroom.cochaincraft",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Neurocast",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/7a/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNy8zMC83MGM5MDc0MTAyNzE4MTgwMzlhOWJlNGUyOWFlMGVlOA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/ec/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNC8wNy8zMC83MGM5MDc0MTAyNzE4MTgwMzlhOWJlNGUyOWFlMGVlOA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/2e/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI0LzA3LzMwLzcwYzkwNzQxMDI3MTgxODAzOWE5YmU0ZTI5YWUwZWU4.png"
+    },
+    "tagline": "Specializes in passively monitoring patients",
+    "url": "https://app.dealroom.coneurocast",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Aectual",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/fa/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8zMC9kNTFhNjdjMjc2MWQ0MzRjMGQ5NDcwOTdlMWU1ZWNjOQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/9a/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8zMC9kNTFhNjdjMjc2MWQ0MzRjMGQ5NDcwOTdlMWU1ZWNjOQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/fa/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzMwL2Q1MWE2N2MyNzYxZDQzNGMwZDk0NzA5N2UxZTVlY2M5.png"
+    },
+    "tagline": "Enable designers and companies to realize tailor-made designs at any scale in any building",
+    "url": "https://app.dealroom.coaectual",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Avy",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/80/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMi9kMWUzYjkyMTFjZjk1NjM2M2EyY2MwMGM4NWMwMDE5Nw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/ae/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMi9kMWUzYjkyMTFjZjk1NjM2M2EyY2MwMGM4NWMwMDE5Nw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/88/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzIyL2QxZTNiOTIxMWNmOTU2MzYzYTJjYzAwYzg1YzAwMTk3.png"
+    },
+    "tagline": "Long-range VTOL drones for emergency and medical services",
+    "url": "https://app.dealroom.coavy",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "NorthSea Therapeutics",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/d5/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNy84MmM1MWQxNmFmY2Y0MDQxNGRmYTI1ZDU3MWM3NWMyNQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/6f/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNy84MmM1MWQxNmFmY2Y0MDQxNGRmYTI1ZDU3MWM3NWMyNQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/9b/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE3LzgyYzUxZDE2YWZjZjQwNDE0ZGZhMjVkNTcxYzc1YzI1.png"
+    },
+    "tagline": "Pan-European biotech company with the aim to develop novel and innovative therapeutic strategies for NASH and other metabolic, inflammatory and fibrotic diseases",
+    "url": "https://app.dealroom.conorthsea_therapeutics",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Scenic Biotech",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/ad/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9iMGY2MTQwYmVhYThmMTZhNzFiZmM4NzdlNjJjOTEwYw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/5f/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNC9iMGY2MTQwYmVhYThmMTZhNzFiZmM4NzdlNjJjOTEwYw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/a8/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA0L2IwZjYxNDBiZWFhOGYxNmE3MWJmYzg3N2U2MmM5MTBj.png"
+    },
+    "tagline": "Modifier gene discovery enabling disease-targeting therapeutics",
+    "url": "https://app.dealroom.coscenic_biotech",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Plantics",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/81/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNS85MjJlYWQ5NTVmNmRhZjEzZmVkMjRiZGQxNDI5MTQ5OA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/02/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wNS85MjJlYWQ5NTVmNmRhZjEzZmVkMjRiZGQxNDI5MTQ5OA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/c6/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA1LzkyMmVhZDk1NWY2ZGFmMTNmZWQyNGJkZDE0MjkxNDk4.png"
+    },
+    "tagline": "Plantics: Biodegradable bio-plastic from 100% renewables",
+    "url": "https://app.dealroom.coplantics",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Pacmed",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/86/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yMi81YTk0MGJhYmYyMjdkMzY0MzEwOWU3OTM3NjgxZDRmYw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/82/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yMi81YTk0MGJhYmYyMjdkMzY0MzEwOWU3OTM3NjgxZDRmYw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/1e/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIzLzAxLzIyLzVhOTQwYmFiZjIyN2QzNjQzMTA5ZTc5Mzc2ODFkNGZj.png"
+    },
+    "tagline": "Pacmed ensures that patients only receive the care that has proven to work for similar patients using machine learning",
+    "url": "https://app.dealroom.copacmed",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "InnoSeis",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/c3/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yMi9hNmQzNTVhYzA3OWM1NzIzNmI3YzYzMWZjODhkOTIwYQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/19/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yMi9hNmQzNTVhYzA3OWM1NzIzNmI3YzYzMWZjODhkOTIwYQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/50/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIzLzAxLzIyL2E2ZDM1NWFjMDc5YzU3MjM2YjdjNjMxZmM4OGQ5MjBh.png"
+    },
+    "tagline": "Develops microelectromechanical systems accelerometers",
+    "url": "https://app.dealroom.coinnoseis",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "HOLOFIL",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/4c/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yMi9lMWY5MWJkMzI1NDhjNDM4NTFiYWFlZDkyZjc0MzRiMg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/a9/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyMy8wMS8yMi9lMWY5MWJkMzI1NDhjNDM4NTFiYWFlZDkyZjc0MzRiMg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/b2/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDIzLzAxLzIyL2UxZjkxYmQzMjU0OGM0Mzg1MWJhYWVkOTJmNzQzNGIy.png"
+    },
+    "tagline": "Your holographic simulation display for 3D experiences",
+    "url": "https://app.dealroom.coholofil",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Confocal",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/fd/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMS9mZTIyMDE2NWE5YmQxYjY3OGE4ZGU4MjM0YWRjOGZlNA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/45/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMS9mZTIyMDE2NWE5YmQxYjY3OGE4ZGU4MjM0YWRjOGZlNA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/96/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzIxL2ZlMjIwMTY1YTliZDFiNjc4YThkZTgyMzRhZGM4ZmU0.png"
+    },
+    "tagline": "Aims to change the microscopy industry with a confocal microscope based on the re-scan invention",
+    "url": "https://app.dealroom.coconfocal",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Nicolab",
+    "address": "N/A",
+    "city": {
+      "id": 43311,
+      "name": "New York City",
+      "lat": 1,
+      "lon": -74.006015
+    },
+    "country": {
+      "id": 23,
+      "name": "United States",
+      "lat": 40.730137,
+      "lon": -73.990129
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/5e/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNS8xMTk2YTllOTkwZDVjNWZhZjJmNzZhMDdlYWU4MzFlYQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/66/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xNS8xMTk2YTllOTkwZDVjNWZhZjJmNzZhMDdlYWU4MzFlYQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/f9/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE1LzExOTZhOWU5OTBkNWM1ZmFmMmY3NmEwN2VhZTgzMWVh.png"
+    },
+    "tagline": "Nicolab developed StrokeViewer® to enable fast and accurate image analysis that helps physicians in making well-informed decisions",
+    "url": "https://app.dealroom.conicolab_1",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Findest",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/0a/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yNi8wYzgxNjg4ZmM2ZDVjY2U0ZWEwNDdmNTYyNWU0MTUzOQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/fe/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yNi8wYzgxNjg4ZmM2ZDVjY2U0ZWEwNDdmNTYyNWU0MTUzOQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/a0/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzI2LzBjODE2ODhmYzZkNWNjZTRlYTA0N2Y1NjI1ZTQxNTM5.png"
+    },
+    "tagline": "A technology scouting company that develops IGOR^AI to help customers like ASML, Philips, Unilever, and Shell find​ technologies ​for R&D-challenges",
+    "url": "https://app.dealroom.cofindest",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Aiir Innovations",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/5d/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wOC80ZjJjMWE3NmEyMGY2MTQ4ZTRjYjgwMDdmY2Y3YTc4Mw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/25/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wOC80ZjJjMWE3NmEyMGY2MTQ4ZTRjYjgwMDdmY2Y3YTc4Mw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/b6/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA4LzRmMmMxYTc2YTIwZjYxNDhlNGNiODAwN2ZjZjdhNzgz.png"
+    },
+    "tagline": "Creates advanced software solutions to make aircraft engine inspection faster and more efficient",
+    "url": "https://app.dealroom.coaiir_innovations",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Optics11",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/09/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMy84NWI0M2Y5ZDhjODAyZGMwNzVmZGI4ZTgxNTExMWY2Yg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/13/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMy84NWI0M2Y5ZDhjODAyZGMwNzVmZGI4ZTgxNTExMWY2Yg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/dd/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAzLzg1YjQzZjlkOGM4MDJkYzA3NWZkYjhlODE1MTExZjZi.png"
+    },
+    "tagline": "A high-tech company that develops revolutionary optical fiber measurement systems for applications in acoustic monitoring, acceleration & strain sensing and more",
+    "url": "https://app.dealroom.cooptics11",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Finch Buildings",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/6c/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMi9iZDIyOTc5NDMwNGMzYzEyMDhkYWJmZmI4Yjc5OTc5OA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/fd/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8yMi9iZDIyOTc5NDMwNGMzYzEyMDhkYWJmZmI4Yjc5OTc5OA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/a7/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzIyL2JkMjI5Nzk0MzA0YzNjMTIwOGRhYmZmYjhiNzk5Nzk4.png"
+    },
+    "tagline": "Evolutionary wooden buildings",
+    "url": "https://app.dealroom.cofinch_buildings",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "SkinVision",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/0b/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMi83NDIzMmIyNTFmZGE1ZDZmNjkyMjJkNDdiMWQyMDljOA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/1f/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMi83NDIzMmIyNTFmZGE1ZDZmNjkyMjJkNDdiMWQyMDljOA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/95/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAyLzc0MjMyYjI1MWZkYTVkNmY2OTIyMmQ0N2IxZDIwOWM4.png"
+    },
+    "tagline": "Skin cancer detection mobile app",
+    "url": "https://app.dealroom.coskinvision",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Amsterdam Scientific Instruments",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/aa/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wOC9hZGRkNDI1NzE3N2U3YjFhMDMzNTI0N2FiZDliYjZmMQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/38/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wOC9hZGRkNDI1NzE3N2U3YjFhMDMzNTI0N2FiZDliYjZmMQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/08/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzA4L2FkZGQ0MjU3MTc3ZTdiMWEwMzM1MjQ3YWJkOWJiNmYx.png"
+    },
+    "tagline": "Developing advanced detector solutions for scientific applications, including neutron detection and electron diffraction",
+    "url": "https://app.dealroom.cowww_amscins_com",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "MX3D",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/d3/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMi8xMTdiY2ViZWVjZmYwYjY3NmFiNTlkYmM5MzE1OTFjYg==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/7c/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMi8xMTdiY2ViZWVjZmYwYjY3NmFiNTlkYmM5MzE1OTFjYg==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/a3/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAyLzExN2JjZWJlZWNmZjBiNjc2YWI1OWRiYzkzMTU5MWNi.png"
+    },
+    "tagline": "Develops robotic 3D metal printing technology",
+    "url": "https://app.dealroom.comx3d",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Skytree",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/f6/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMy83NTcxOWNjN2I3MTUxOGI1YjgyZDJhMTQ0NjY3Zjg2ZA==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/f6/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8wMy83NTcxOWNjN2I3MTUxOGI1YjgyZDJhMTQ0NjY3Zjg2ZA==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/78/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzAzLzc1NzE5Y2M3YjcxNTE4YjViODJkMmExNDQ2NjdmODZk.png"
+    },
+    "tagline": "Offering a direct air capture technology enabling its users to capture carbon dioxide and concentrate it for industrial use",
+    "url": "https://app.dealroom.coskytree",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Fastned",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/ca/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yNi9kOTg0ODkzOTdjZTQ0MWFiMTgwYzE5NzEyYTJiNmQ5MQ==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/66/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yNi9kOTg0ODkzOTdjZTQ0MWFiMTgwYzE5NzEyYTJiNmQ5MQ==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/c1/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzI2L2Q5ODQ4OTM5N2NlNDQxYWIxODBjMTk3MTJhMmI2ZDkx.png"
+    },
+    "tagline": "Fast car charging along the highway",
+    "url": "https://app.dealroom.cofastned",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "EclecticIQ",
+    "address": "N/A",
+    "city": {
+      "id": 33,
+      "name": "Amsterdam",
+      "lat": 52.370216,
+      "lon": 4.895168
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/b8/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMi8wYjY3ZjgwZGY2ZjAyOTBjYzA2MGEwMjM0MDUzMGFhYw==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/0e/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8wOS8yMi8wYjY3ZjgwZGY2ZjAyOTBjYzA2MGEwMjM0MDUzMGFhYw==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/f0/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzA5LzIyLzBiNjdmODBkZjZmMDI5MGNjMDYwYTAyMzQwNTMwYWFj.png"
+    },
+    "tagline": "Intelligence powered defense",
+    "url": "https://app.dealroom.coeclecticiq",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  },
+  {
+    "name": "Avantium",
+    "address": "N/A",
+    "city": {
+      "id": 2338,
+      "name": "Apeldoorn",
+      "lat": 52.211157,
+      "lon": 5.969923
+    },
+    "country": {
+      "id": 32,
+      "name": "Netherlands",
+      "lat": 52.132633,
+      "lon": 5.291266
+    },
+    "images": {
+      "32x32": "https://storage.googleapis.com/dealroom-images-production/d6/MzI6MzI6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xOC9iN2ZjZThlNWRmOTM1M2RlMjgyMmRmYzdlZDc4OWU3Ng==.png",
+      "74x74": "https://storage.googleapis.com/dealroom-images-production/64/NzQ6NzQ6Y29tcGFueUBzMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9kZWFscm9vbS1pbWFnZXMvMjAyNS8xMC8xOC9iN2ZjZThlNWRmOTM1M2RlMjgyMmRmYzdlZDc4OWU3Ng==.png",
+      "100x100": "https://storage.googleapis.com/dealroom-images-production/17/MTAwOjEwMDpjb21wYW55QHMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL2RlYWxyb29tLWltYWdlcy8yMDI1LzEwLzE4L2I3ZmNlOGU1ZGY5MzUzZGUyODIyZGZjN2VkNzg5ZTc2.png"
+    },
+    "tagline": "Provides high-throughput RandD technologies for applications in the energy, chemicals and pharmaceutical industries",
+    "url": "https://app.dealroom.coavantium_technologies",
+    "linkedin": "N/A",
+    "twitter": "N/A",
+    "facebook": "N/A"
+  }
+]

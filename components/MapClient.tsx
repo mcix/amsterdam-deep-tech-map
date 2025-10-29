@@ -176,7 +176,7 @@ export default function MapClient({ companies }: MapClientProps) {
         <div className="mt-3 pt-3 border-t border-gray-200 dark:border-gray-700 text-xs text-gray-600 dark:text-gray-400">
           <p>Map created by{' '}
             <a 
-              href="https://github.com/avanderheijde" 
+              href="https://github.com/mcix" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-blue-600 dark:text-blue-400 hover:underline"

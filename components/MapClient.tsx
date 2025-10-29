@@ -86,7 +86,6 @@ function MarkerClusterManager({
       disableClusteringAtZoom: 18,
       // Always spiderfy instead of zooming in
       spiderfyOnMaxZoom: true,
-      zoomToBoundsOnClick: false,
       // Animation settings
       animate: true,
       animateAddingMarkers: false,
@@ -94,6 +93,11 @@ function MarkerClusterManager({
       showCoverageOnHover: true,
       // Spiderfy settings for nice spreading
       spiderfyDistanceMultiplier: 1.5,
+      spiderLegPolylineOptions: {
+        weight: 2,
+        color: '#4A90E2',
+        opacity: 0.7
+      },
       iconCreateFunction: function(cluster: any) {
         const count = cluster.getChildCount();
         let size = 'small';
@@ -105,17 +109,33 @@ function MarkerClusterManager({
           className: `marker-cluster marker-cluster-${size}`,
           iconSize: L.point(40, 40)
         });
+      },
+      // Custom click handler to always spiderfy instead of zoom
+      zoomToBoundsOnClick: false
+    });
+
+    // Spiderfy on hover for desktop
+    clusterGroup.on('clustermouseover', function(a: any) {
+      if (window.innerWidth >= 768 && a.layer.getAllChildMarkers) {
+        a.layer.spiderfy();
       }
     });
 
-    // Auto-spiderfy all clusters when they're added (makes spiderfy the default view)
-    clusterGroup.on('clustermouseover', function(this: any) {
-      this.spiderfy();
+    clusterGroup.on('clustermouseout', function(a: any) {
+      if (window.innerWidth >= 768 && a.layer.unspiderfy) {
+        a.layer.unspiderfy();
+      }
     });
 
-    // On click, keep spiderfied (don't zoom)
-    clusterGroup.on('clusterclick', function(this: any) {
-      this.spiderfy();
+    // Spiderfy on click for all devices (especially mobile)
+    clusterGroup.on('clusterclick', function(a: any) {
+      const cluster = a.layer;
+      // Toggle spiderfy state
+      if (cluster._group._spiderfied) {
+        cluster.unspiderfy();
+      } else {
+        cluster.spiderfy();
+      }
     });
 
     // Add all markers to cluster group

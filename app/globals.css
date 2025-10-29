@@ -141,6 +141,14 @@ body {
   z-index: 1000 !important;
 }
 
+/* Mobile drawer animations */
+@media (max-width: 767px) {
+  /* Hide Leaflet popups on mobile since we use drawer */
+  .leaflet-popup {
+    display: none !important;
+  }
+}
+
 /* Marker Cluster Styling - subtle since spiderfy is primary view */
 .marker-cluster-small {
   background-color: rgba(74, 144, 226, 0.4);

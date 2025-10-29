@@ -1,11 +1,12 @@
 'use client';
 
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 import dynamic from 'next/dynamic';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet.markercluster/dist/MarkerCluster.css';
 import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
 import Image from 'next/image';
+import type L from 'leaflet';
 
 interface CompanyMarker {
   name: string;
@@ -41,32 +42,51 @@ const Popup = dynamic(
   { ssr: false }
 );
 
-// Custom MarkerClusterGroup component for React-Leaflet v5
-function MarkerClusterGroup({ children }: { children: React.ReactNode }) {
-  const { useMap } = require('react-leaflet');
-  const map = useMap();
+// Import useMapEvents dynamically
+const MapEventsComponent = dynamic(
+  () => import('react-leaflet').then((mod) => {
+    const { useMapEvents } = mod;
+    return {
+      default: function MapInit({ onMapReady }: { onMapReady: (map: any) => void }) {
+        const map = useMapEvents({});
+        useEffect(() => {
+          if (map) {
+            onMapReady(map);
+          }
+        }, [map, onMapReady]);
+        return null;
+      }
+    };
+  }),
+  { ssr: false }
+);
 
-  useEffect(() => {
-    if (!map) return;
+// Clustering component that manages all markers
+function MarkerClusterManager({
+  companies,
+  createCustomIcon
+}: {
+  companies: CompanyMarker[];
+  createCustomIcon: (imageUrl?: string) => any;
+}) {
+  const clusterGroupRef = useRef<any>(null);
+  const markersRef = useRef<any[]>([]);
+
+  const handleMapReady = (map: any) => {
+    if (!map || clusterGroupRef.current) return;
 
     const L = require('leaflet');
     require('leaflet.markercluster');
 
     // Create marker cluster group with custom settings
     const clusterGroup = L.markerClusterGroup({
-      // Show markers when zoomed in enough
       disableClusteringAtZoom: 15,
-      // Animate cluster splitting
       animate: true,
-      // Spider out markers on click (mobile) and hover (desktop)
       spiderfyOnMaxZoom: true,
       showCoverageOnHover: false,
       zoomToBoundsOnClick: true,
-      // Maximum radius for clustering
       maxClusterRadius: 80,
-      // Spiderfy on hover for desktop
       spiderfyOnEveryZoom: false,
-      // Custom cluster icon
       iconCreateFunction: function(cluster: any) {
         const count = cluster.getChildCount();
         let size = 'small';
@@ -82,73 +102,48 @@ function MarkerClusterGroup({ children }: { children: React.ReactNode }) {
     });
 
     // Add spiderfy on hover for desktop
-    clusterGroup.on('clustermouseover', function(this: any, a: any) {
-      if (window.innerWidth >= 768) { // Desktop only
+    clusterGroup.on('clustermouseover', function(this: any) {
+      if (window.innerWidth >= 768) {
         this.spiderfy();
       }
     });
 
-    clusterGroup.on('clustermouseout', function(this: any, a: any) {
+    clusterGroup.on('clustermouseout', function(this: any) {
       if (window.innerWidth >= 768) {
         this.unspiderfy();
       }
     });
 
+    // Add all markers to cluster group
+    companies.forEach((company) => {
+      const icon = createCustomIcon(company.image);
+      const marker = L.marker([company.lat, company.lon], { icon });
+
+      // Create popup content
+      const popupContent = document.createElement('div');
+      popupContent.className = 'p-3 bg-white dark:bg-gray-800';
+      popupContent.innerHTML = `
+        ${company.largeImage ? `<img src="${company.largeImage}" alt="${company.name}" class="w-full max-w-[200px] h-auto object-contain mb-3 mx-auto" />` : ''}
+        <h3 class="font-bold text-lg mb-2 text-gray-900 dark:text-white">${company.name}</h3>
+        ${company.tagline ? `<p class="text-sm text-gray-600 dark:text-gray-400 mb-2 italic">${company.tagline}</p>` : ''}
+        ${company.about ? `<p class="text-xs text-gray-700 dark:text-gray-300 mb-3 line-clamp-3">${company.about}</p>` : ''}
+        <div class="text-xs space-y-1 border-t border-gray-200 dark:border-gray-600 pt-2">
+          ${company.city ? `<p class="text-gray-700 dark:text-gray-300"><strong class="text-gray-900 dark:text-white">Location:</strong> ${company.city}, ${company.country}</p>` : ''}
+          ${company.employees ? `<p class="text-gray-700 dark:text-gray-300"><strong class="text-gray-900 dark:text-white">Employees:</strong> ${company.employees}</p>` : ''}
+          ${company.websiteUrl ? `<a href="${company.websiteUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline block mt-2">Visit Website →</a>` : ''}
+        </div>
+      `;
+
+      marker.bindPopup(popupContent, { maxWidth: 400 });
+      clusterGroup.addLayer(marker);
+      markersRef.current.push(marker);
+    });
+
     map.addLayer(clusterGroup);
+    clusterGroupRef.current = clusterGroup;
+  };
 
-    // Store cluster group on map for children to access
-    (map as any)._clusterGroup = clusterGroup;
-
-    return () => {
-      if (clusterGroup) {
-        map.removeLayer(clusterGroup);
-      }
-    };
-  }, [map]);
-
-  return <>{children}</>;
-}
-
-// Wrapper component to add markers to cluster group
-function ClusteredMarker({ company, icon }: { company: CompanyMarker; icon: any }) {
-  const { useMap } = require('react-leaflet');
-  const map = useMap();
-
-  useEffect(() => {
-    if (!map || !(map as any)._clusterGroup) return;
-
-    const L = require('leaflet');
-    const clusterGroup = (map as any)._clusterGroup;
-
-    // Create marker
-    const marker = L.marker([company.lat, company.lon], { icon });
-
-    // Create popup content
-    const popupContent = document.createElement('div');
-    popupContent.className = 'p-3 bg-white dark:bg-gray-800';
-    popupContent.innerHTML = `
-      ${company.largeImage ? `<img src="${company.largeImage}" alt="${company.name}" class="w-full max-w-[200px] h-auto object-contain mb-3 mx-auto" />` : ''}
-      <h3 class="font-bold text-lg mb-2 text-gray-900 dark:text-white">${company.name}</h3>
-      ${company.tagline ? `<p class="text-sm text-gray-600 dark:text-gray-400 mb-2 italic">${company.tagline}</p>` : ''}
-      ${company.about ? `<p class="text-xs text-gray-700 dark:text-gray-300 mb-3 line-clamp-3">${company.about}</p>` : ''}
-      <div class="text-xs space-y-1 border-t border-gray-200 dark:border-gray-600 pt-2">
-        ${company.city ? `<p class="text-gray-700 dark:text-gray-300"><strong class="text-gray-900 dark:text-white">Location:</strong> ${company.city}, ${company.country}</p>` : ''}
-        ${company.employees ? `<p class="text-gray-700 dark:text-gray-300"><strong class="text-gray-900 dark:text-white">Employees:</strong> ${company.employees}</p>` : ''}
-        ${company.websiteUrl ? `<a href="${company.websiteUrl}" target="_blank" rel="noopener noreferrer" class="text-blue-600 dark:text-blue-400 hover:underline block mt-2">Visit Website →</a>` : ''}
-      </div>
-    `;
-
-    marker.bindPopup(popupContent, { maxWidth: 400 });
-
-    // Add marker to cluster group
-    clusterGroup.addLayer(marker);
-
-    return () => {
-      clusterGroup.removeLayer(marker);
-    };
-  }, [map, company, icon]);
-
-  return null;
+  return <MapEventsComponent onMapReady={handleMapReady} />;
 }
 
 interface MapClientProps {
@@ -207,15 +202,10 @@ export default function MapClient({ companies }: MapClientProps) {
         />
 
         {/* Company Markers with Clustering */}
-        <MarkerClusterGroup>
-          {companies.map((company, index) => (
-            <ClusteredMarker
-              key={index}
-              company={company}
-              icon={createCustomIcon(company.image)}
-            />
-          ))}
-        </MarkerClusterGroup>
+        <MarkerClusterManager
+          companies={companies}
+          createCustomIcon={createCustomIcon}
+        />
       </MapContainer>
 
       {/* Info Bar */}

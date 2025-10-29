@@ -73,31 +73,43 @@ function MobileDrawer({
 }) {
   const [touchStart, setTouchStart] = useState(0);
   const [touchEnd, setTouchEnd] = useState(0);
+  const [isDragging, setIsDragging] = useState(false);
 
   const handleTouchStart = (e: React.TouchEvent) => {
     setTouchStart(e.targetTouches[0].clientY);
+    setTouchEnd(e.targetTouches[0].clientY);
+    setIsDragging(true);
   };
 
   const handleTouchMove = (e: React.TouchEvent) => {
+    if (!isDragging) return;
     setTouchEnd(e.targetTouches[0].clientY);
   };
 
   const handleTouchEnd = () => {
-    // Swipe up to close (dragging the drawer up)
-    if (touchStart - touchEnd > 50) {
+    if (!isDragging) return;
+
+    const swipeDistance = touchStart - touchEnd;
+
+    // Swipe up to close (negative value means swiping up)
+    if (swipeDistance > 50) {
       onClose();
     }
+
+    setIsDragging(false);
     setTouchStart(0);
     setTouchEnd(0);
   };
 
-  if (!isOpen || !company) return null;
+  if (!company) return null;
 
   return (
     <>
       {/* Backdrop - clickable map area at bottom */}
       <div
-        className="fixed inset-0 z-[9998] pointer-events-none"
+        className={`fixed inset-0 z-[9998] transition-opacity duration-300 ${
+          isOpen ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
+        }`}
         onClick={onClose}
       >
         <div className="absolute bottom-0 left-0 right-0 h-32 pointer-events-auto" />
@@ -105,12 +117,22 @@ function MobileDrawer({
 
       {/* Drawer */}
       <div
-        className="fixed top-0 left-0 right-0 bg-white dark:bg-gray-800 shadow-2xl z-[9999] rounded-b-3xl"
+        className={`fixed left-0 right-0 bg-white dark:bg-gray-800 shadow-2xl z-[9999] rounded-b-3xl transition-all duration-300 ease-out ${
+          isOpen ? 'top-0' : '-top-full'
+        }`}
         style={{ maxHeight: 'calc(100vh - 120px)' }}
+        onTouchStart={handleTouchStart}
+        onTouchMove={handleTouchMove}
+        onTouchEnd={handleTouchEnd}
       >
+        {/* Swipe indicator at top */}
+        <div className="pt-2 pb-1 flex items-center justify-center">
+          <div className="w-12 h-1.5 bg-gray-300 dark:bg-gray-600 rounded-full" />
+        </div>
+
         {/* Content */}
-        <div className="overflow-y-auto" style={{ maxHeight: 'calc(100vh - 170px)' }}>
-          <div className="p-6">
+        <div className="overflow-y-auto" style={{ maxHeight: 'calc(100vh - 200px)' }}>
+          <div className="p-6 pb-16">
             {company.largeImage && (
               <img
                 src={company.largeImage}
@@ -127,7 +149,7 @@ function MobileDrawer({
               </p>
             )}
             {company.about && (
-              <div className="text-sm text-gray-700 dark:text-gray-300 mb-4">
+              <div className="text-sm text-gray-700 dark:text-gray-300 mb-4 whitespace-pre-wrap">
                 {company.about}
               </div>
             )}
@@ -159,13 +181,8 @@ function MobileDrawer({
         </div>
 
         {/* Swipe handle at bottom */}
-        <div
-          className="absolute bottom-0 left-0 right-0 h-12 flex items-center justify-center cursor-pointer bg-gradient-to-t from-white dark:from-gray-800 to-transparent"
-          onTouchStart={handleTouchStart}
-          onTouchMove={handleTouchMove}
-          onTouchEnd={handleTouchEnd}
-        >
-          <div className="w-12 h-1.5 bg-gray-300 dark:bg-gray-600 rounded-full" />
+        <div className="absolute bottom-0 left-0 right-0 h-16 flex items-center justify-center cursor-pointer bg-gradient-to-t from-white dark:from-gray-800 to-transparent pointer-events-none">
+          <div className="w-16 h-1 bg-gray-400 dark:bg-gray-500 rounded-full shadow-sm" />
         </div>
       </div>
     </>

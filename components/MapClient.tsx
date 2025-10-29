@@ -100,7 +100,7 @@ export default function MapClient({ companies }: MapClientProps) {
             position={[company.lat, company.lon]}
             icon={createCustomIcon(company.image)}
           >
-            <Popup maxWidth={400} className="custom-popup">
+            <Popup maxWidth={400} className="custom-popup w-[400px]">
               <div className="p-3">
                 {company.image && (
                   <img

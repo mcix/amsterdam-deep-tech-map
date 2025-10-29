@@ -101,7 +101,10 @@ function MobileDrawer({
     setTouchEnd(0);
   };
 
-  if (!company) return null;
+  // Keep drawer mounted for animation, just hide when no company
+  if (!company) {
+    return null;
+  }
 
   return (
     <>
@@ -117,22 +120,17 @@ function MobileDrawer({
 
       {/* Drawer */}
       <div
-        className={`fixed left-0 right-0 bg-white dark:bg-gray-800 shadow-2xl z-[9999] rounded-b-3xl transition-all duration-300 ease-out ${
-          isOpen ? 'top-0' : '-top-full'
+        className={`fixed left-0 right-0 bg-white dark:bg-gray-800 shadow-2xl z-[9999] rounded-b-3xl transition-transform duration-300 ease-out ${
+          isOpen ? 'translate-y-0' : '-translate-y-full'
         }`}
-        style={{ maxHeight: 'calc(100vh - 120px)' }}
-        onTouchStart={handleTouchStart}
-        onTouchMove={handleTouchMove}
-        onTouchEnd={handleTouchEnd}
+        style={{
+          top: 0,
+          maxHeight: 'calc(100vh - 120px)'
+        }}
       >
-        {/* Swipe indicator at top */}
-        <div className="pt-2 pb-1 flex items-center justify-center">
-          <div className="w-12 h-1.5 bg-gray-300 dark:bg-gray-600 rounded-full" />
-        </div>
-
         {/* Content */}
-        <div className="overflow-y-auto" style={{ maxHeight: 'calc(100vh - 200px)' }}>
-          <div className="p-6 pb-16">
+        <div className="overflow-y-auto pt-4" style={{ maxHeight: 'calc(100vh - 200px)' }}>
+          <div className="px-6 pb-20">
             {company.largeImage && (
               <img
                 src={company.largeImage}
@@ -180,9 +178,14 @@ function MobileDrawer({
           </div>
         </div>
 
-        {/* Swipe handle at bottom */}
-        <div className="absolute bottom-0 left-0 right-0 h-16 flex items-center justify-center cursor-pointer bg-gradient-to-t from-white dark:from-gray-800 to-transparent pointer-events-none">
-          <div className="w-16 h-1 bg-gray-400 dark:bg-gray-500 rounded-full shadow-sm" />
+        {/* Swipe handle at bottom - Interactive */}
+        <div
+          className="absolute bottom-0 left-0 right-0 h-16 flex items-center justify-center cursor-grab active:cursor-grabbing bg-gradient-to-t from-white dark:from-gray-800 to-transparent"
+          onTouchStart={handleTouchStart}
+          onTouchMove={handleTouchMove}
+          onTouchEnd={handleTouchEnd}
+        >
+          <div className="w-16 h-1.5 bg-gray-400 dark:bg-gray-500 rounded-full shadow-sm" />
         </div>
       </div>
     </>

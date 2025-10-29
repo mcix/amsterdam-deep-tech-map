@@ -124,8 +124,10 @@ function MobileDrawer({
           isOpen ? 'translate-y-0' : '-translate-y-full'
         }`}
         style={{
-          top: 0,
-          maxHeight: 'calc(100vh - 120px)'
+          top: 'env(safe-area-inset-top, 0px)',
+          left: 'env(safe-area-inset-left, 0px)',
+          right: 'env(safe-area-inset-right, 0px)',
+          maxHeight: 'calc(100dvh - 120px - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px))'
         }}
       >
         {/* Content */}
@@ -376,7 +378,9 @@ export default function MapClient({ companies }: MapClientProps) {
   const center: [number, number] = [52.370216, 4.895168];
 
   return (
-    <div className="h-screen w-full">
+    <div className="w-full" style={{
+      height: '100dvh', // Dynamic viewport height for mobile browsers
+    }}>
       <MapContainer
         center={center}
         zoom={12}

@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+/* iOS PWA support */
+@supports (-webkit-touch-callout: none) {
+  :root {
+    /* iOS specific fixes for fullscreen */
+    height: -webkit-fill-available;
+  }
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -22,14 +30,22 @@
 html, body {
   margin: 0;
   padding: 0;
+  width: 100%;
   height: 100%;
   overflow: hidden;
+  position: fixed;
+  /* iOS safe area support */
+  height: 100vh;
+  height: -webkit-fill-available;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  /* Prevent pull-to-refresh on iOS */
+  overscroll-behavior: none;
+  -webkit-overflow-scrolling: touch;
 }
 
 /* Ensure leaflet map fills container */

@@ -80,13 +80,20 @@ function MarkerClusterManager({
 
     // Create marker cluster group with custom settings
     const clusterGroup = L.markerClusterGroup({
-      disableClusteringAtZoom: 15,
-      animate: true,
+      // Only cluster when markers actually overlap (very small radius)
+      maxClusterRadius: 40,
+      // Disable clustering at higher zoom for better visibility
+      disableClusteringAtZoom: 18,
+      // Always spiderfy instead of zooming in
       spiderfyOnMaxZoom: true,
-      showCoverageOnHover: false,
-      zoomToBoundsOnClick: true,
-      maxClusterRadius: 80,
-      spiderfyOnEveryZoom: false,
+      zoomToBoundsOnClick: false,
+      // Animation settings
+      animate: true,
+      animateAddingMarkers: false,
+      // Show coverage on hover to indicate clustered area
+      showCoverageOnHover: true,
+      // Spiderfy settings for nice spreading
+      spiderfyDistanceMultiplier: 1.5,
       iconCreateFunction: function(cluster: any) {
         const count = cluster.getChildCount();
         let size = 'small';
@@ -101,17 +108,14 @@ function MarkerClusterManager({
       }
     });
 
-    // Add spiderfy on hover for desktop
+    // Auto-spiderfy all clusters when they're added (makes spiderfy the default view)
     clusterGroup.on('clustermouseover', function(this: any) {
-      if (window.innerWidth >= 768) {
-        this.spiderfy();
-      }
+      this.spiderfy();
     });
 
-    clusterGroup.on('clustermouseout', function(this: any) {
-      if (window.innerWidth >= 768) {
-        this.unspiderfy();
-      }
+    // On click, keep spiderfied (don't zoom)
+    clusterGroup.on('clusterclick', function(this: any) {
+      this.spiderfy();
     });
 
     // Add all markers to cluster group

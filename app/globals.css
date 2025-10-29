@@ -88,34 +88,35 @@ body {
   z-index: 1000 !important;
 }
 
-/* Marker Cluster Styling */
+/* Marker Cluster Styling - subtle since spiderfy is primary view */
 .marker-cluster-small {
-  background-color: rgba(110, 204, 57, 0.6);
+  background-color: rgba(74, 144, 226, 0.4);
 }
 
 .marker-cluster-small div {
-  background-color: rgba(110, 204, 57, 0.8);
+  background-color: rgba(74, 144, 226, 0.7);
 }
 
 .marker-cluster-medium {
-  background-color: rgba(240, 194, 12, 0.6);
+  background-color: rgba(100, 181, 246, 0.4);
 }
 
 .marker-cluster-medium div {
-  background-color: rgba(240, 194, 12, 0.8);
+  background-color: rgba(100, 181, 246, 0.7);
 }
 
 .marker-cluster-large {
-  background-color: rgba(241, 128, 23, 0.6);
+  background-color: rgba(66, 165, 245, 0.4);
 }
 
 .marker-cluster-large div {
-  background-color: rgba(241, 128, 23, 0.8);
+  background-color: rgba(66, 165, 245, 0.7);
 }
 
 .marker-cluster {
   background-clip: padding-box;
   border-radius: 20px;
+  border: 2px solid rgba(74, 144, 226, 0.3);
 }
 
 .marker-cluster div {
@@ -132,40 +133,52 @@ body {
 .marker-cluster span {
   line-height: 30px;
   color: #fff;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
 }
 
-/* Hover effect on clusters */
+/* Hover effect on clusters - emphasize spiderfy action */
 .marker-cluster:hover {
   cursor: pointer;
-  opacity: 0.9;
-  transform: scale(1.05);
+  opacity: 1;
+  transform: scale(1.1);
   transition: all 0.2s ease;
+  border-color: rgba(74, 144, 226, 0.8);
+  box-shadow: 0 2px 8px rgba(74, 144, 226, 0.4);
 }
 
 /* Dark mode cluster adjustments */
 @media (prefers-color-scheme: dark) {
   .marker-cluster-small {
-    background-color: rgba(110, 204, 57, 0.7);
+    background-color: rgba(100, 181, 246, 0.5);
   }
 
   .marker-cluster-small div {
-    background-color: rgba(110, 204, 57, 0.9);
+    background-color: rgba(100, 181, 246, 0.8);
   }
 
   .marker-cluster-medium {
-    background-color: rgba(240, 194, 12, 0.7);
+    background-color: rgba(66, 165, 245, 0.5);
   }
 
   .marker-cluster-medium div {
-    background-color: rgba(240, 194, 12, 0.9);
+    background-color: rgba(66, 165, 245, 0.8);
   }
 
   .marker-cluster-large {
-    background-color: rgba(241, 128, 23, 0.7);
+    background-color: rgba(33, 150, 243, 0.5);
   }
 
   .marker-cluster-large div {
-    background-color: rgba(241, 128, 23, 0.9);
+    background-color: rgba(33, 150, 243, 0.8);
+  }
+
+  .marker-cluster {
+    border-color: rgba(100, 181, 246, 0.4);
+  }
+
+  .marker-cluster:hover {
+    border-color: rgba(100, 181, 246, 0.9);
+    box-shadow: 0 2px 8px rgba(100, 181, 246, 0.5);
   }
 }
 
@@ -174,16 +187,26 @@ body {
   transition: all 0.3s ease;
 }
 
-/* Polylines for spiderfied markers */
+/* Polylines for spiderfied markers - more visible since they're default view */
 .leaflet-cluster-spider-leg {
-  stroke: #222;
-  stroke-width: 1.5;
-  stroke-opacity: 0.5;
+  stroke: #4A90E2;
+  stroke-width: 2;
+  stroke-opacity: 0.7;
+  transition: all 0.2s ease;
+}
+
+.leaflet-cluster-spider-leg:hover {
+  stroke-opacity: 1;
+  stroke-width: 3;
 }
 
 @media (prefers-color-scheme: dark) {
   .leaflet-cluster-spider-leg {
-    stroke: #ddd;
-    stroke-opacity: 0.4;
+    stroke: #64B5F6;
+    stroke-opacity: 0.6;
+  }
+
+  .leaflet-cluster-spider-leg:hover {
+    stroke-opacity: 0.9;
   }
 }
